@@ -51,4 +51,4 @@ Through this project, I practiced:
 
 ## 🌐 Live Demo
 
-[**View Live Project →**](YOUR-LIVE-URL)
+[**View Live Project →**](https://akotridou.github.io/pomodoro-app/)
